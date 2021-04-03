@@ -30,11 +30,11 @@ TBD
 | Lecture # | Topic (slides linked after lecture) | Resources |
 |---------|-------|-----------|
 | 1 | Introduction to data visualizations | |
+| 2 | Connecting to data sources | |
 | 2 | Creating data visualizations | |
 | 3 | Principles of Effective Visualizations & Choosing an appropriate visualization I | |
 | 4 | Choosing an appropriate visualization II and Colours |  |
 | 5 | Exploratory Data Analysis (EDA) | |
-| 6 | Introduction to interactive plotting using python |N/A |
 
 ## Annotated Resources
 
