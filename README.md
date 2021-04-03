@@ -1,6 +1,4 @@
-# tableau_training
-
-# Data Visualization
+# Data Visualization (Tableau)
 
 Effective data visualizations using Tableau
 
@@ -22,10 +20,7 @@ In this course, students will be expected to:
 
 TBD
 
-## Teaching Team
-
-
-
+## Lecture details
 
 | Lecture # | Topic (slides linked after lecture) | Lecture hours |
 |---------|-------|-----------|
