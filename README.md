@@ -55,6 +55,7 @@ TBD
 - Join types (left, right, inner, outer)
 
 ### 4. Creating data visualization
+- Exercises to demonstrate the following:
 - Dimensions
 - measures
 - Drill down
