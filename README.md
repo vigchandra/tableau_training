@@ -29,12 +29,19 @@ TBD
 
 | Lecture # | Topic (slides linked after lecture) | Resources |
 |---------|-------|-----------|
-| 1 | Introduction to data visualizations - Why visualize? - Components of data ink | |
+| 1 | Introduction to data visualizations | |
 | 2 | Connecting to data sources | |
 | 2 | Creating data visualizations | |
 | 3 | Principles of Effective Visualizations & Choosing an appropriate visualization I | |
 | 4 | Choosing an appropriate visualization II and Colours |  |
 | 5 | Exploratory Data Analysis (EDA) | |
+
+
+1. Introduction to data visualization
+- Why visualize data? What is story telling?
+- Where does viusalization situated in the grand scheme of data science?
+- Why is it necessary to enforce best practices in visualization?
+- Introduction to data types (Ordinal, Nominal, Quantitative & continuous, discrete, binary, etc.)
 
 ## Annotated Resources
 
