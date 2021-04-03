@@ -27,23 +27,41 @@ TBD
 
 
 
-| Lecture # | Topic (slides linked after lecture) | Resources |
+| Lecture # | Topic (slides linked after lecture) | Lecture hours |
 |---------|-------|-----------|
-| 1 | Introduction to data visualizations | |
-| 2 | Connecting to data sources | |
-| 2 | Creating data visualizations | |
-| 3 | Principles of Effective Visualizations & Choosing an appropriate visualization I | |
-| 4 | Choosing an appropriate visualization II and Colours |  |
+| 1 | Introduction to data visualizations | 2 |
+| 2 | Connecting to data sources | 1 |
+| 3 | Creating data visualizations | 4 |
+| 4 | Principles of Effective Visualizations & Choosing an appropriate visualization | 2 |
 | 5 | Exploratory Data Analysis (EDA) | |
 
 
-1. Introduction to data visualization
+### 1. Introduction to data visualization
 - Why visualize data? What is story telling?
 - Where does viusalization situated in the grand scheme of data science?
 - Why is it necessary to enforce best practices in visualization?
-- Introduction to data types (Ordinal, Nominal, Quantitative & continuous, discrete, binary, etc.)
+- Introduction to data types (Ordinal, Nominal, Quantitative & continuous, discrete, binary, ordered, unordered, datetime, text, etc.)
+- Common visualization types (bar, line, points, intervals, geo-spatial, chord, etc.)
 
-## Annotated Resources
+
+### 2. Connecting to data sources
+- Introduction to data enegineering and needs
+- Connecting to csv, excel (differences)
+- Connecting to SQL Server
+- Relationships between data sources
+- Managing metadata, live vs. extract
+- Saving and publishing data sources
+- Join types (left, right, inner, outer)
+- Connecting to other data sources
+
+
+### 4. Creating data visualization
+- Dimensions and measures
+- Drill down and heirarchies
+- Sorting, grouping, sets, filters, formatting, slicing
+- Tool tips, trend lines, reference, forecasting, clustering
+
+## Resources
 
 > There are a lot of open source textbooks already out there on data visualization techniques so we will lean on those heavily for references.
 
