@@ -29,7 +29,10 @@ TBD
 
 | Lecture # | Topic (slides linked after lecture) | Resources |
 |---------|-------|-----------|
-| 1 | Introduction to data visualizations | |
+| 1 | Introduction to data visualizations 
+        - Why visualize?
+        - Components of data ink 
+        - | |
 | 2 | Connecting to data sources | |
 | 2 | Creating data visualizations | |
 | 3 | Principles of Effective Visualizations & Choosing an appropriate visualization I | |
