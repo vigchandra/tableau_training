@@ -30,10 +30,11 @@ TBD
 | Lecture # | Topic (slides linked after lecture) | Lecture hours |
 |---------|-------|-----------|
 | 1 | Introduction to data visualizations | 2 |
-| 2 | Connecting to data sources | 1 |
-| 3 | Creating data visualizations | 4 |
-| 4 | Principles of Effective Visualizations & Choosing an appropriate visualization | 1 |
-| 5 | Exploratory Data Analysis (EDA) | 2 |
+| 2 | Introduction to Tableau | 1 |
+| 3 | Connecting to data sources | 1 |
+| 4 | Creating data visualizations | 4 |
+| 5 | Principles of Effective Visualizations & Choosing an appropriate visualization | 1 |
+| 6 | Exploratory Data Analysis (EDA) | 2 |
 
 
 ### 1. Introduction to data visualization
@@ -43,7 +44,13 @@ TBD
 - Introduction to data types (Ordinal, Nominal, Quantitative & continuous, discrete, binary, ordered, unordered, datetime, text, etc.)
 - Common visualization types (bar, line, points, intervals, geo-spatial, chord, etc.)
 
-### 2. Connecting to data sources
+### 2. Introduction to Tableau
+- History of Tableau
+- Tools available
+- Comparison with other industry standards
+- Demystifying Deployment and interactivity
+
+### 3. Connecting to data sources
 - Introduction to data enegineering and needs
 - Connecting to csv, excel (differences)
 - Connecting to SQL Server
@@ -51,9 +58,8 @@ TBD
 - Managing metadata, live vs. extract
 - Saving and publishing data sources
 - Join types (left, right, inner, outer)
-- Connecting to other data sources
 
-### 3. Creating data visualization
+### 4. Creating data visualization
 - Dimensions
 - measures
 - Drill down
@@ -67,12 +73,12 @@ TBD
 - reference lines
 - forecasting, clustering
 
-### 4. Principles of Effective Visualizations & Choosing an appropriate visualization
+### 5. Principles of Effective Visualizations & Choosing an appropriate visualization
 - What should you absolutely not do?
 - Common pitfalls (8-10 examples)
 - Choice of visualization (bar vs. line vs. pie vs ....): When do we use what?
 
-### 5. Exploratory data analysis
+### 6. Exploratory data analysis
 - Why are EDAs important?
 - Developing the 6 types of staatistical questions (exploratory, descriptive, inferential {frequentist, bayesian}, causal, mechanistic, predictive)
 - How to approach an EDA? (Exercise)
