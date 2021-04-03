@@ -54,10 +54,18 @@ TBD
 - Connecting to other data sources
 
 ### 3. Creating data visualization
-- Dimensions and measures
-- Drill down and heirarchies
-- Sorting, grouping, sets, filters, formatting, slicing
-- Tool tips, trend lines, reference, forecasting, clustering
+- Dimensions
+- measures
+- Drill down
+- Heirarchies
+- Sorting
+- grouping
+- sets, filters, slicing
+- formatting
+- Tool tips
+- trend lines
+- reference lines
+- forecasting, clustering
 
 ### 4. Principles of Effective Visualizations & Choosing an appropriate visualization
 - Common pitfalls
