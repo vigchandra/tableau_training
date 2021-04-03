@@ -68,8 +68,8 @@ TBD
 - forecasting, clustering
 
 ### 4. Principles of Effective Visualizations & Choosing an appropriate visualization
-- Common pitfalls
-- Examples (8)
+- What should you absolutely not do?
+- Common pitfalls (8-10 examples)
 - Choice of visualization (bar vs. line vs. pie vs ....): When do we use what?
 
 ### 5. Exploratory data analysis
