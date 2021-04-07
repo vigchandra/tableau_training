@@ -80,7 +80,7 @@ TBD
 - How to approach an EDA? (Exercise)
 - Conclusion and next steps in an EDA
 
-## Lecture details for Tableau Adanced
+## Lecture details for Tableau Advanced
 
 | Lecture # | Topic (slides linked after lecture) | Lecture hours |
 |---------|-------|-----------|
