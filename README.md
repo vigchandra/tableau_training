@@ -107,8 +107,15 @@ TBD
 
 ### 3 Mapping techniques for geospatial data
 
-- Data types and storage
+- Data types and storage (GeoJSON, TopoJSON)
 - Spatial distribtuion and aggregation
+- Deepdive into effective viz. focused on geospatial info.
+
+### Dashboarding & Storytelling
+
+- Audience: Where do you use what?
+- How do you create and automate an animation
+- Arrangement, interactivity, clutter
 
 ## Resources
 
