@@ -88,7 +88,7 @@ TBD
 | 2 | Advanced table calculations | ? |
 | 3 | Mapping techniques | ? |
 | 4 | Dashboarding & Storytelling | 1 |
-| 5 | Geoencoding, statistics & forecasting | ? |
+| 5 | Statistics & forecasting | ? |
 
 
 ### 1 Groups and sets
@@ -109,13 +109,21 @@ TBD
 
 - Data types and storage (GeoJSON, TopoJSON)
 - Spatial distribtuion and aggregation
+- Geoencoding
 - Deepdive into effective viz. focused on geospatial info.
 
-### Dashboarding & Storytelling
+### 4 Dashboarding & Storytelling
 
 - Audience: Where do you use what?
 - How do you create and automate an animation
-- Arrangement, interactivity, clutter
+- Arrangement, interactivity, clutter, effectiveness
+
+### 5 Statistics & forecasting
+
+- Distributions, family of pdfs (probability distribution functions)
+- Introduction to approaches in frequentist vs. bayesian modelling
+- Time series (trend, cyclic, seasonal effects)
+- Prediction, intervals, accuracy, etc.
 
 ## Resources
 
