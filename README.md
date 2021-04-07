@@ -20,7 +20,7 @@ In this course, students will be expected to:
 
 TBD
 
-## Lecture details
+## Lecture details for Tableau Basic
 
 | Lecture # | Topic (slides linked after lecture) | Lecture hours |
 |---------|-------|-----------|
@@ -80,6 +80,16 @@ TBD
 - How to approach an EDA? (Exercise)
 - Conclusion and next steps in an EDA
 
+## Lecture details for Tableau Adanced
+
+| Lecture # | Topic (slides linked after lecture) | Lecture hours |
+|---------|-------|-----------|
+| 1 | Groups and sets| 3 |
+| 2 | Advanced table calculations | ? |
+| 3 | Mapping techniques | ? |
+| 4 | Dashboarding & Storytelling | 1 |
+| 5 | Spatial mapping | ? |
+| 6 | Geoencoding, statistics & forecasting | ? |
 
 
 ## Resources
