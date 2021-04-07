@@ -88,9 +88,27 @@ TBD
 | 2 | Advanced table calculations | ? |
 | 3 | Mapping techniques | ? |
 | 4 | Dashboarding & Storytelling | 1 |
-| 5 | Spatial mapping | ? |
-| 6 | Geoencoding, statistics & forecasting | ? |
+| 5 | Geoencoding, statistics & forecasting | ? |
 
+
+### 1 Groups and sets
+- Working with Groups
+- Creating Static Set
+- Creating Dynamic Set
+- Combining Sets
+- Controlling Sets With Parameters
+
+### 2 Advanced table calculations
+
+- Calculated Fields vs Table Calculations
+- Creating Advanced Table Calculations
+- Quality Assurance For Table Calculations
+- Trendlines for Power-Insights
+
+### 3 Mapping techniques for geospatial data
+
+- Data types and storage
+- Spatial distribtuion and aggregation
 
 ## Resources
 
